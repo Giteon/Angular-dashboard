@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "1-liners": "0.4.2",
-    "@angular/core": "8.2.13",
+    "@angular/core": "11.0.5",
     "@types/node": "12.12.5",
     "browserify": "16.5.0",
     "cross-spawn": "6.X.X",
