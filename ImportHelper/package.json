@@ -27,7 +27,7 @@
     "eslint": "5.X.X",
     "eslint-plugin-mocha": "6.2.1",
     "esm-exports": "3.1.2",
-    "mocha": "6.2.2",
+    "mocha": "10.2.0",
     "object-values": "2.X.X",
     "pkg-dir": "3.X.X",
     "read-pkg-up": "4.X.X",
